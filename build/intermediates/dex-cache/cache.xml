@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/eleiee/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/eleiee/Google Drive/unilife/CMPUT 301/ass1/alido-CountBook/app/build/intermediates/pre-dexed/debug/gson-2.8.2_92229408d22d24a3db4aeb5b48839b4319a48c6e.jar" />
+    </item>
+
+</items>

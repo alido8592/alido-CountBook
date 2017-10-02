@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">alido-CountBook</string>
+    <string name="enter_name">Enter item name</string>
+    <string name="button_add_item">Add new line..</string>
+    <string name="button_increment">+</string>
+    <string name="button_decrement">-</string>
+    <string name="button_reset">Restart</string>
+    <string name="button_result_summary">Summary</string>
+    <string name="button_save">Save</string>
+</resources>
